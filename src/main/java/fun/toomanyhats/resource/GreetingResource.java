@@ -1,4 +1,4 @@
-package fun.toomanyhats;
+package fun.toomanyhats.resource;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
